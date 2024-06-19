@@ -1,0 +1,1 @@
+# Öffnungszeiten Plugin von Christoph
